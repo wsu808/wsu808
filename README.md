@@ -1,5 +1,12 @@
 ### Hello Crouel World
+- 💬 [Motto](https://i.redd.it/6k2ycjyndyz81.png)
 
+⠀  
+⠀  
+⠀  
+⠀  
+⠀  
+⠀  
 
 ### What you can find in my repositories:
 * [`wsu_help`](https://github.com/wsu808/wsu_help) 
