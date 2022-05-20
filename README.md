@@ -1,7 +1,7 @@
 ### Hello Crouel World
 
 
-### What you can find on my repositories:
+### What you can find in my repositories:
 * [`wsu_help`](https://github.com/wsu808/wsu_help) 
     > **HOW-TO**s and **Troubleshooting** for problems I ever came across and managed to solve. Maybe it will help sb to solve their problems.
 * [`wsu_PrefPack`](https://github.com/wsu808/wsu_PrefPack) 
