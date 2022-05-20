@@ -1,5 +1,5 @@
-### Hello Crouel World
-- 💬 [Motto](https://i.redd.it/6k2ycjyndyz81.png)
+### [Hello Crouel World](https://wsu808.github.io)
+- 💬 [`Motto`](https://i.redd.it/6k2ycjyndyz81.png)
 
 ⠀  
 ⠀  
