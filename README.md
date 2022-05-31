@@ -1,6 +1,9 @@
 ### [Hello Crouel World](https://wsu808.github.io)
 - 💬 [`Motto`](https://i.redd.it/6k2ycjyndyz81.png)
 
+> *„Technology: Making the impossible possible. The only limit to our potential is that which we don't dream.”*  
+> **~Cyrus Borg** "Ninjago Decoded Ep.5"
+
 ⠀  
 ⠀  
 ⠀  
