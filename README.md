@@ -17,7 +17,9 @@
 * [`wsu_PrefPack`](https://github.com/wsu808/wsu_PrefPack) 
     > pack of **preferences and settings** for various programs and games I use (like VLC, CS config, etc.)
 * [`wsu_cubari`](https://github.com/wsu808/wsu_cubari) 
-    > ready-made files with **online comics** for [Cubari](https://cubari.moe) reader. They consist of URLs put in one file for easier reading. ⚠WARNING: it may contain NSFW content!
+    > ready-made files with **online comics** for [Cubari](https://cubari.moe) reader. They consist of URLs put in one file for easier reading. 
+    > | ⚠️<br/>🔞 | May contain NSFW content! |
+    > |:---------:|:-------------------------:|
 
 <!--
 **wsu808/wsu808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
